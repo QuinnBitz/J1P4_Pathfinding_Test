@@ -72,12 +72,4 @@ internal class GameTasks
                 Debug.WriteLine($"frame was buffering, took {Math.Abs(delay)}ms longer than the set framerate");
         }
     }
-
-    /// <summary>
-    /// instant return, does nothing
-    /// </summary>
-    private static void DoNothing()
-    {
-        return;
-    }
 }

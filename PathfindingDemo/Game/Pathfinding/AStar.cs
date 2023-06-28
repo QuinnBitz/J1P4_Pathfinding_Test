@@ -148,7 +148,7 @@ internal class AStar : IPathfinding
         //FOR DEBUGGING
         //if (Debugger.IsAttached)
         //{
-        //    Thread.Sleep(5);
+        //    Thread.Sleep(30);
         //    Display.DebugMark(_pos.X, _pos.Y, ConsoleColor.Blue);
         //}
 
